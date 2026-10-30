@@ -1,0 +1,11 @@
+.streamlit/secrets.toml
+.env
+config.json
+.runtime/
+data/
+logs/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.exe
+.venv/
